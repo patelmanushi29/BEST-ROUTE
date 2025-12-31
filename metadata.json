@@ -1,0 +1,7 @@
+{
+  "name": "BestRoute - Intelligent Trip Planner",
+  "description": "A meticulous and creative route-finding application that helps you discover the best path based on speed, cost, comfort, and eco-friendliness using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
